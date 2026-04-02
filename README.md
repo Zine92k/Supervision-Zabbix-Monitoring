@@ -1,5 +1,8 @@
 #Supervision Zabbix & Alerting
 
+![Dashboard Zabbix](dashboard-zabbix.png)
+*Note : Simulation d'un tableau de bord de supervision pour le parc de la Mairie de Bagneux (12 hôtes, monitoring CPU/Uptime).*
+
 Ce projet illustre la mise en place d'une plateforme de supervision pour garantir le **Maintien en Condition Opérationnelle (MCO)** d'une infrastructure SI.
 
 ##Objectifs
